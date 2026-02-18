@@ -1,10 +1,7 @@
-## Hi there 👋
-
-**elsabylin/elsabylin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there, I am Elsa 👋
 
 # 💫 About Me:
 🔭4th year M.Sc. student in electrical engineering currently specializing in smart cities <br>🧠Interested in softwere development and machine learning for making better cities<br>🍃Currently working on an app for detecting air pollution<br>👋Welcome to have a look at some of my projects
-
 
 ## 🌐 Socials:
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/elsabylin) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/elsabylin) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/elsabylin) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/elsabylin) 
