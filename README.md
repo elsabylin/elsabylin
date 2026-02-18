@@ -1,6 +1,6 @@
 ## Hi there, I am Elsa 👋
 
-# 💫 About Me:
+
 🔭4th year M.Sc. student in electrical engineering currently specializing in smart cities <br>🧠Interested in softwere development and machine learning for making better cities<br>🍃Currently working on an app for detecting air pollution<br>👋Welcome to have a look at some of my projects
 
 ## 🌐 Socials:
